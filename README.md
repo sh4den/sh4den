@@ -41,10 +41,12 @@ impl Profile {
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
 <div float="center">
-    <img align="left" width="375" src="https://github-readme-stats.vercel.app/api?username=sh4den&show_icons=false&theme=dark">
-    <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sh4den&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
+    <img align="left" width="375" src="https://github-readme-stats.vercel.app/api?username=sh4den&theme=nord&show_icons=true&hide_border=true&count_private=true">
+    <img align="right" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4den&theme=nord&show_icons=true&hide_border=true&layout=compact">
 </div>
 
+<br><br>
+<br><br>
 <br><br>
 <br><br>
 <br><br>
@@ -80,15 +82,8 @@ impl Profile {
     <hr>
     <br>
     <p>
-        <img width="100" align="right" src="https://github.com/user-attachments/assets/3f2d9a0c-8510-413b-908c-04f3fea2021b"/>
-        <h3 align="right"><a href="https://github.com/sh4den/pc-auth">PC Auth</a></h3>
+        <img width="100" align="right" src="https://github.com/user-attachments/assets/f1171a0c-1c0a-44bc-9198-a9a6bfdbb068"/>
+        <h3 align="right"><a href="https://github.com/sh4den/pc-auth">TAuth</a></h3>
         <h4 align="right">A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
     </p>
-    <hr>
-    <p>
-        <img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png">
-        <h3><a href="#">Texian</a></h3>
-        <h4>A technical support tickets manager for schools and companies.</h4>
-    </p>
-    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
