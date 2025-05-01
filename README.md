@@ -83,7 +83,7 @@ impl Profile {
     <br>
     <p>
         <img width="100" align="right" src="https://github.com/user-attachments/assets/f1171a0c-1c0a-44bc-9198-a9a6bfdbb068"/>
-        <h3 align="right"><a href="https://github.com/sh4den/pc-auth">TAuth</a></h3>
+        <h3 align="right"><a href="https://github.com/sh4den/tauth">TAuth</a></h3>
         <h4 align="right">A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
     </p>
 </p>
