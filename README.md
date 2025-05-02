@@ -63,7 +63,7 @@ impl Profile {
     <p>
         <img width="100" align="left" src="https://github.com/user-attachments/assets/77515db5-8d73-4bcb-ad82-c010f54ebd62"/>
         <h3><a href="https://github.com/sh4den/censorless-web-router">Censorless Web Router</a></h3>
-        <h4>This project aims to makes you no longer afraid and resistant to domain seizures using ethereum network.</h4>
+        <h4>This project aims to makes you no longer afraid and resistant to domain seizures using Ethereum & IPFS networks.</h4>
     </p>
     <hr>
     <br>
