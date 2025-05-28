@@ -61,6 +61,13 @@ impl Profile {
     <br>
     <br>
     <p>
+        <img width="100" align="right" src="https://github.com/user-attachments/assets/3a4370da-e914-438b-801b-8215766a973c"/>
+        <h3 align="right"><a href="https://github.com/Signether">Signether</a></h3>
+        <h4 align="right">A decentralized digital signature platform that integrates with blockchain technology. Providing immutable proof of document signatures, ownership and integrity with Web3 verification.</h4>
+    </p>
+    <hr>
+    <br>
+    <p>
         <img width="100" align="left" src="https://github.com/user-attachments/assets/77515db5-8d73-4bcb-ad82-c010f54ebd62"/>
         <h3><a href="https://github.com/sh4den/censorless-web-router">Censorless Web Router</a></h3>
         <h4>This project aims to makes you no longer afraid and resistant to domain seizures using Ethereum & IPFS networks.</h4>
