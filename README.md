@@ -77,13 +77,13 @@ impl Profile {
     <p>
         <img width="100" align="right" src="https://github.com/user-attachments/assets/95c9cdf3-54f3-48c6-b9ec-5606725b4905"/>
         <h3 align="right"><a href="https://github.com/sh4den/espnix">Espnix</a></h3>
-        <h4 align="right">An Open-Source Unix like system that is made to run on ESP32 and STM32 micro-chips.</h4>
+        <h4 align="right">An Open-Source POSIX system that is made to run on Espressif System that contain its virtual machine.</h4>
     </p>
     <hr>
     <p>
-        <img width="100" align="left" src="https://github.com/user-attachments/assets/7fa4d2b3-5fa2-466d-93b9-eb62e140e020"/>
-        <h3><a href="https://github.com/E2EDPS/Research-Paper">E2EDPS</a></h3>
-        <h4>E2EDPS is an HTTP based protocol designed around a client-server architecture where the client is responsible for encrypting data before sending it to the server.</h4>
+        <img width="100" align="left" src="https://github.com/user-attachments/assets/fb89c838-04a6-4949-b0dc-c2b2ec06acf2"/>
+        <h3><a href="https://www.blindflare.org/whitepaper.pdf">Blindflare</a></h3>
+        <h4>Blindflare is an HTTP/HTTPS based protocol designed around a client-server architecture where the client is responsible for encrypting data before sending it to the server.</h4>
     </p>
     <br>
     <hr>
