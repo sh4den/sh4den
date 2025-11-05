@@ -75,15 +75,15 @@ impl Profile {
     <hr>
     <br>
     <p>
-        <img width="100" align="left" src="https://github.com/user-attachments/assets/95c9cdf3-54f3-48c6-b9ec-5606725b4905"/>
-        <h3 align="left"><a href="https://github.com/sh4den/Espnix">Espnix</a></h3>
-        <h4 align="left">An Open-Source POSIX system that is made to run on Espressif System that contain its virtual machine.</h4>
+        <img width="100" align="right" src="https://github.com/user-attachments/assets/95c9cdf3-54f3-48c6-b9ec-5606725b4905"/>
+        <h3 align="right"><a href="https://github.com/sh4den/Espnix">Espnix</a></h3>
+        <h4 align="right">An Open-Source POSIX system that is made to run on Espressif System that contain its virtual machine.</h4>
     </p>
     <hr>
     <p>
-        <img width="100" align="right" src="https://github.com/user-attachments/assets/fb89c838-04a6-4949-b0dc-c2b2ec06acf2"/>
-        <h3 align="right"><a href="https://www.blindflare.org/whitepaper.pdf">Blindflare</a></h3>
-        <h4 align="right">Blindflare is an HTTP/HTTPS based protocol designed around a client-server architecture where the client is responsible for encrypting data before sending it to the server.</h4>
+        <img width="100" align="left" src="https://github.com/user-attachments/assets/fb89c838-04a6-4949-b0dc-c2b2ec06acf2"/>
+        <h3 align="left"><a href="https://www.blindflare.org/whitepaper.pdf">Blindflare</a></h3>
+        <h4 align="left">Blindflare is an HTTP/HTTPS based protocol designed around a client-server architecture where the client is responsible for encrypting data before sending it to the server.</h4>
     </p>
     <br>
     <hr>
