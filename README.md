@@ -61,36 +61,30 @@ impl Profile {
     <br>
     <br>
     <p>
-        <img width="100" align="right" src="https://github.com/user-attachments/assets/3a4370da-e914-438b-801b-8215766a973c"/>
-        <h3 align="right"><a href="https://github.com/Signether">Signether</a></h3>
-        <h4 align="right">A decentralized digital signature platform that integrates with blockchain technology. Providing immutable proof of document signatures, ownership and integrity with Web3 verification.</h4>
+        <img width="100" align="right" src="https://github.com/user-attachments/assets/ced68675-3338-4e7e-b9a0-5a9fc887aeac"/>
+        <h3 align="right"><a href="https://github.com/sh4den/Montscan">Montscan</a></h3>
+        <h4 align="right">An automated scanner document processor with OCR, AI naming, and Nextcloud upload.</h4>
     </p>
     <hr>
     <br>
     <p>
-        <img width="100" align="left" src="https://github.com/user-attachments/assets/77515db5-8d73-4bcb-ad82-c010f54ebd62"/>
-        <h3><a href="https://github.com/sh4den/censorless-web-router">Censorless Web Router</a></h3>
-        <h4>This project aims to makes you no longer afraid and resistant to domain seizures using Ethereum & IPFS networks.</h4>
+        <img width="100" align="left" src="https://github.com/user-attachments/assets/31ca86d6-776c-4206-9c6d-cf6693cd3073"/>
+        <h3 align="left"><a href="https://github.com/sh4den/TAuth">TAuth</a></h3>
+        <h4 align="left">Keep all your credentials safe in an elegant application.</h4>
     </p>
     <hr>
     <br>
     <p>
-        <img width="100" align="right" src="https://github.com/user-attachments/assets/95c9cdf3-54f3-48c6-b9ec-5606725b4905"/>
-        <h3 align="right"><a href="https://github.com/sh4den/espnix">Espnix</a></h3>
-        <h4 align="right">An Open-Source POSIX system that is made to run on Espressif System that contain its virtual machine.</h4>
+        <img width="100" align="left" src="https://github.com/user-attachments/assets/95c9cdf3-54f3-48c6-b9ec-5606725b4905"/>
+        <h3 align="left"><a href="https://github.com/sh4den/Espnix">Espnix</a></h3>
+        <h4 align="left">An Open-Source POSIX system that is made to run on Espressif System that contain its virtual machine.</h4>
     </p>
     <hr>
     <p>
-        <img width="100" align="left" src="https://github.com/user-attachments/assets/fb89c838-04a6-4949-b0dc-c2b2ec06acf2"/>
-        <h3><a href="https://www.blindflare.org/whitepaper.pdf">Blindflare</a></h3>
-        <h4>Blindflare is an HTTP/HTTPS based protocol designed around a client-server architecture where the client is responsible for encrypting data before sending it to the server.</h4>
+        <img width="100" align="right" src="https://github.com/user-attachments/assets/fb89c838-04a6-4949-b0dc-c2b2ec06acf2"/>
+        <h3 align="right"><a href="https://www.blindflare.org/whitepaper.pdf">Blindflare</a></h3>
+        <h4 align="right">Blindflare is an HTTP/HTTPS based protocol designed around a client-server architecture where the client is responsible for encrypting data before sending it to the server.</h4>
     </p>
     <br>
     <hr>
-    <br>
-    <p>
-        <img width="100" align="right" src="https://github.com/user-attachments/assets/f1171a0c-1c0a-44bc-9198-a9a6bfdbb068"/>
-        <h3 align="right"><a href="https://github.com/sh4den/tauth">TAuth</a></h3>
-        <h4 align="right">A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
-    </p>
 </p>
