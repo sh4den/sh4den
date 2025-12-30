@@ -33,7 +33,7 @@ impl Profile {
     <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sh4den&theme=onedark&column=5&&rank=-C&margin-w=15&margin-h=15">
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=sh4den&theme=onedark&column=5&&rank=-C&margin-w=15&margin-h=15">
 </p>
 
 <h3 align="center">📊 Stats</h3>
