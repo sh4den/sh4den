@@ -1,23 +1,26 @@
-![test](https://github.com/user-attachments/assets/d733dce6-75dd-421d-9253-b90e3a25fbf0)
+![531089463-d733dce6-75dd-421d-9253-b90e3a25fbf0](https://github.com/user-attachments/assets/5d82560b-ba00-4fe7-9448-19158910f784)
 
-```rust
-pub struct Profile {
-    description: String,
-    languages: Vec<&'static str>,
-    tools: Vec<&'static str>,
-    servers: Vec<&'static str>,
-}
+```pascal
+program Profile;
 
-impl Profile {
-    pub fn new() -> Self {
-        Self {
-            description: String::from("Low-level programming enthusiast"),
-            languages: vec!["Python", "PHP", "Rust", "C", "Go", "Perl", "Typescript"],
-            tools: vec!["Docker", "Kubernetes", "Git", "Github Actions", "Travis CI", "Jenkins"],
-            servers: vec!["Nginx", "Apache", "Caddy", "HAProxy"],
-        }
-    }
-}
+type
+  TProfile = record
+    Description: string;
+    Languages: array[1..7] of string;
+    Tools: array[1..5] of string;
+    Servers: array[1..4] of string;
+  end;
+
+var
+  Profile: TProfile;
+
+begin
+  Profile.Description := 'Low-level programming enthusiast.';
+  Profile.Languages := ('C', 'C++', 'Go', 'C#', 'Python', 'TypeScript', 'Perl');
+  Profile.Tools := ('Docker', 'Kubernetes', 'Git', 'Jenkins');
+  Profile.Systems := ('Linux', 'Unix', 'Windows');
+end.
+
 ```
 <h3 align="center">⚖️ Last Post</h3>
 
