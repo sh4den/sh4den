@@ -1,5 +1,4 @@
-<h1 align="center">🪐 Welcome To My Profile ☄️</h1>
-<img src="https://github.com/user-attachments/assets/d77bbb69-914d-4249-9f28-f06b65ac3780">
+![test](https://github.com/user-attachments/assets/d733dce6-75dd-421d-9253-b90e3a25fbf0)
 
 ```rust
 pub struct Profile {
