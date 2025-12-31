@@ -6,9 +6,9 @@ program Profile;
 type
   TProfile = record
     Description: string;
-    Languages: array[1..7] of string;
-    Tools: array[1..5] of string;
-    Servers: array[1..4] of string;
+    Languages: string;
+    Tools: string;
+    Servers: string;
   end;
 
 var
@@ -16,9 +16,9 @@ var
 
 begin
   Profile.Description := 'Low-level programming enthusiast.';
-  Profile.Languages := ('C', 'C++', 'Go', 'C#', 'Python', 'TypeScript', 'Perl');
-  Profile.Tools := ('Docker', 'Kubernetes', 'Git', 'Jenkins');
-  Profile.Systems := ('Linux', 'Unix', 'Windows');
+  Profile.Languages := 'C, C++, Go, C#, PHP, Python, TypeScript, Lua, Perl ...';
+  Profile.Tools := 'Docker, Vite, Kubernetes, Git, Jenkins ...';
+  Profile.Systems := 'Linux, FreeBSD, Cisco, Windows';
 end.
 
 ```
