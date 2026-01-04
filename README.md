@@ -1,4 +1,4 @@
-![531089463-d733dce6-75dd-421d-9253-b90e3a25fbf0](https://github.com/user-attachments/assets/5d82560b-ba00-4fe7-9448-19158910f784)
+![banner](https://github.com/user-attachments/assets/7b0551e3-70ae-457e-b084-950150e64080)
 
 ```pascal
 program Profile;
