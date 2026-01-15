@@ -61,7 +61,7 @@ end.
     <p>
         <img width="100" align="right" src="https://github.com/user-attachments/assets/ced68675-3338-4e7e-b9a0-5a9fc887aeac"/>
         <h3 align="right"><a href="https://github.com/sh4den/Montscan">Montscan</a></h3>
-        <h4 align="right">An automated scanner document processor with OCR, AI naming, and Nextcloud upload.</h4>
+        <h4 align="right">An automated scanner document processor with Ai Vision, AI naming, and Nextcloud upload.</h4>
     </p>
     <hr>
     <br>
