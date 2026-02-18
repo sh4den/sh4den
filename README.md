@@ -18,7 +18,7 @@ begin
   Profile.Description := 'Low-level programming enthusiast.';
   Profile.Languages := 'C, C++, Go, C#, PHP, Python, TypeScript, Lua, Perl ...';
   Profile.Tools := 'Docker, Vite, Kubernetes, Git, Jenkins ...';
-  Profile.Systems := 'Linux, FreeBSD, Cisco, Windows';
+  Profile.Systems := 'Linux, FreeBSD, Windows';
 end.
 
 ```
