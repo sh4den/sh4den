@@ -1,27 +1,7 @@
-![banner](https://github.com/user-attachments/assets/484c1d55-7321-4c2b-9d99-0648f5c7e92f)
+![welcome](https://github.com/user-attachments/assets/37b8016f-55e9-4e87-96d1-a07d9f58f716)
 
-```pascal
-program Profile;
+![profile](https://github.com/user-attachments/assets/44faa1aa-56a7-4852-97e8-257f1106410a)
 
-type
-  TProfile = record
-    Description: string;
-    Languages: string;
-    Tools: string;
-    Servers: string;
-  end;
-
-var
-  Profile: TProfile;
-
-begin
-  Profile.Description := 'Low-level programming enthusiast.';
-  Profile.Languages := 'C, C++, Go, C#, PHP, Python, TypeScript, Lua, Perl ...';
-  Profile.Tools := 'Docker, Vite, Kubernetes, Git, Jenkins ...';
-  Profile.Systems := 'Linux, FreeBSD, Windows';
-end.
-
-```
 <h3 align="center">⚖️ Last Post</h3>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/20f2dd24-f9c7-4ac3-9dd6-1f0f7831aa43">
@@ -41,6 +21,7 @@ end.
 <p align="center">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh4den&theme=onedark&column=6&&rank=-C&margin-w=15&margin-h=15">
 </p>
+
 
 <h3 align="center">📌 Actual Projects</h3>
 <p align="center">
