@@ -16,10 +16,10 @@
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img width="64" src="https://github.com/user-attachments/assets/31ca86d6-776c-4206-9c6d-cf6693cd3073"/>
-      <h3><a href="https://github.com/Sh4den/TAuth">TAuth</a></h3>
-      <p>Keep all your credentials safe in an elegant application.</p>
-      <a href="https://github.com/Sh4den/TAuth"><img src="https://img.shields.io/badge/-View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <img width="64" src="https://github.com/user-attachments/assets/e21d5c98-d834-426c-9be4-3aeb6528be4b" />
+      <h3><a href="https://github.com/Sh4den/Oxidal">Oxidal</a></h3>
+      <p>An elegant native ssh session manager for people who avoid electron.</p>
+      <a href="https://github.com/Sh4den/Oxidal"><img src="https://img.shields.io/badge/-View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td align="center" width="50%" valign="top">
       <img width="64" src="https://github.com/user-attachments/assets/ced68675-3338-4e7e-b9a0-5a9fc887aeac"/>
