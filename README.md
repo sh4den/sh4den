@@ -16,16 +16,16 @@
 <table width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
+      <img width="64" src="https://github.com/user-attachments/assets/7a03ab6b-f5e1-4360-98ac-3089b8cab5e2"/>
+      <h3><a href="https://github.com/Sh4den/Montscan">Montscan</a></h3>
+      <p>An automated scanner document processor with AI Vision, AI naming, and Nextcloud upload.</p>
+      <a href="https://github.com/Sh4den/Montscan"><img src="https://img.shields.io/badge/-View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td align="center" width="50%" valign="top">
       <img width="64" src="https://github.com/user-attachments/assets/e21d5c98-d834-426c-9be4-3aeb6528be4b" />
       <h3><a href="https://github.com/Sh4den/Oxidal">Oxidal</a></h3>
       <p>An elegant native ssh session manager for people who avoid electron.</p>
       <a href="https://github.com/Sh4den/Oxidal"><img src="https://img.shields.io/badge/-View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img width="64" src="https://github.com/user-attachments/assets/ced68675-3338-4e7e-b9a0-5a9fc887aeac"/>
-      <h3><a href="https://github.com/Sh4den/Montscan">Montscan</a></h3>
-      <p>An automated scanner document processor with AI Vision, AI naming, and Nextcloud upload.</p>
-      <a href="https://github.com/Sh4den/Montscan"><img src="https://img.shields.io/badge/-View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
