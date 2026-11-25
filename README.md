@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="50%" valign="top">
       <img width="64" src="https://github.com/user-attachments/assets/fb89c838-04a6-4949-b0dc-c2b2ec06acf2"/>
-      <h3><a href="https://www.blindflare.org/whitepaper.pdf">Blindflare</a></h3>
+      <h3><a href="https://www.blindflare.org/blindflare.pdf">Blindflare</a></h3>
       <p>An HTTP/HTTPS protocol built around a client-server architecture, where the client encrypts data before sending it to the server.</p>
       <a href="https://www.blindflare.org/blindflare.pdf"><img src="https://img.shields.io/badge/-Read%20Whitepaper-005571?style=flat-square"/></a>
     </td>
